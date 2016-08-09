@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/lucene-6.1.0/lucene-6.1.0/test-framework/lucene-test-framework-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/lucene-6.1.0/lucene-6.1.0/analysis/common/lucene-analyzers-common-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/lucene-6.1.0/lucene-6.1.0/core/lucene-core-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/lucene-6.1.0/lucene-6.1.0/queryparser/lucene-queryparser-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/lucene-6.1.0/lucene-6.1.0/analysis/icu/lucene-analyzers-icu-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/lucene-6.1.0/lucene-6.1.0/backward-codecs/lucene-backward-codecs-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/lucene-6.1.0/lucene-6.1.0/benchmark/lucene-benchmark-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/lucene-6.1.0/lucene-6.1.0/classification/lucene-classification-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/lucene-6.1.0/lucene-6.1.0/codecs/lucene-codecs-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/lucene-6.1.0/lucene-6.1.0/demo/lucene-demo-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/lucene-6.1.0/lucene-6.1.0/expressions/lucene-expressions-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/lucene-6.1.0/lucene-6.1.0/queries/lucene-queries-6.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/lucene-6.1.0/docs/core/org/apache/lucene/search/similarities"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
