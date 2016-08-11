@@ -12,7 +12,7 @@ public class Main {
 		String consulta;
 		LuceneTeste teste = new LuceneTeste();
 		
-		teste.lerDocs("C:\\Users\\Dandara\\workspace\\lab1-checkpoint3\\src\\docs");
+		teste.lerDocs("C:\\Users\\Dandara\\workspace\\atividade1_check3\\src\\docs");
 		
 		System.out.printf("O que você está procurando: ");
 		consulta = ler.nextLine();
